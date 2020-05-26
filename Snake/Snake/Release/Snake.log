@@ -1,0 +1,35 @@
+﻿Построение начато 29.03.2016 21:26:07.
+     1>Проект "C:\My documents\Visual Studio 2012\Projects\Snake\Snake\Snake.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D SFML_DYNAMIC /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt App.cpp AppResources.cpp Button.cpp Field.cpp Food.cpp Game.cpp HUD.cpp Main.cpp Menu.cpp Player.cpp Text.cpp
+         App.cpp
+         AppResources.cpp
+         Button.cpp
+         Field.cpp
+         Food.cpp
+         Game.cpp
+         HUD.cpp
+         Main.cpp
+         Menu.cpp
+         Player.cpp
+         Text.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\My documents\Visual Studio 2012\Projects\Snake\Release\Snake.exe" /VERSION:"0.4" /NOLOGO "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" "sfml-audio.lib" "sfml-main.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\My documents\Visual Studio 2012\Projects\Snake\Release\Snake.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\My documents\Visual Studio 2012\Projects\Snake\Release\Snake.lib" /MACHINE:X86 /SAFESEH Release\App.obj
+         Release\AppResources.obj
+         Release\Button.obj
+         Release\Field.obj
+         Release\Food.obj
+         Release\Game.obj
+         Release\HUD.obj
+         Release\Main.obj
+         Release\Menu.obj
+         Release\Player.obj
+         Release\Text.obj
+         Создание кода
+         Создание кода завершено
+         Snake.vcxproj -> C:\My documents\Visual Studio 2012\Projects\Snake\Release\Snake.exe
+     1>Построение проекта "C:\My documents\Visual Studio 2012\Projects\Snake\Snake\Snake.vcxproj" завершено (целевые объекты Rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:05.68
